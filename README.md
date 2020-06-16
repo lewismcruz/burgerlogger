@@ -6,9 +6,9 @@ Top it off with the ingredients of your choice and enjoy.
 
 Thank you for eating with Eat Da Burger and helping us to continuously improve our burger offering to our customers.
 
-![No You Didn't Burger](https://github.com/lewismcruz/burgerlogger/blob/master/noyoudidnt.png)
+! [No You Didn't Burger](https://github.com/lewismcruz/burgerlogger/blob/master/noyoudidnt.png)
 
-![Heart Attack Harry Burger](https://github.com/lewismcruz/burgerlogger/blob/master/heartattackharry.png)
+! [Heart Attack Harry Burger](https://github.com/lewismcruz/burgerlogger/blob/master/heartattackharry.png)
 
 ### What are the options
 To help meet what our customers are looking for in their burgers, Eat Da Burger is implementing a "Devour Da Burger" app that helps rate a burger that was recently ordered.
